@@ -1,0 +1,1 @@
+../../.dotfiles/dmenu/bin/dmenu/config.h
